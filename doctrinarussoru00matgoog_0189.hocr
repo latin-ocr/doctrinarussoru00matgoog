@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctrinarussoru00matgoog_0189.png"; bbox 0 0 938 1315; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 68 834 1070">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 68 834 1070">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 68 834 1070; baseline 0 -34"><span class='ocrx_word' id='word_1_1' title='bbox 106 68 834 1070; x_wconf 95' lang='lat' dir='ltr'><strong>     </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 1006 490 1059">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 1006 490 1059">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 1006 478 1032; baseline 0.004 -7"><span class='ocrx_word' id='word_1_2' title='bbox 201 1006 279 1032; x_wconf 56' lang='lat' dir='ltr'><strong>{otum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 294 1011 336 1025; x_wconf 80' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 351 1007 387 1025; x_wconf 72' lang='lat' dir='ltr'><strong>nula</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 398 1008 448 1025; x_wconf 72' lang='lat' dir='ltr'><strong>«iouh</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 458 1007 478 1026; x_wconf 54' lang='lat' dir='ltr'><strong>e&amp;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 201 1032 490 1059; baseline 0.007 -3"><span class='ocrx_word' id='word_1_7' title='bbox 201 1033 281 1056; x_wconf 62' lang='lat' dir='ltr'><strong>lamma,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 293 1032 367 1059; x_wconf 59' lang='lat' dir='ltr'><strong>vcontum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 382 1034 490 1058; x_wconf 54' lang='lat' dir='ltr'><strong>»firmem</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
